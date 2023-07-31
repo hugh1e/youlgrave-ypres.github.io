@@ -6,7 +6,7 @@ layout: page
 title: Youlgrave-Ypres Memorial Sculpture
 ---
 
-![Youlgrave-Ypres Memorial Sculpture](/assets/sculpture.jpg){: .center }
+![Youlgrave-Ypres Memorial Sculpture](/assets/sculpture.jpg)
 
 ## An Explanation
 
