@@ -16,7 +16,7 @@ They were commissioned by his brother, Charles, who had served in Ieper and witn
 
 For the windows, glass fragments salvaged from the ruins of Ypres cathedral and surrounding churches were incorporated into the design.
 
-![Waterhouse window details](/assets/roundel%201.png) ![Waterhouse window details](/assets/roundel%202.png)
+![Waterhouse window details](/assets/Roundel%201.png) ![Waterhouse window details](/assets/Roundel%202.png)
 
 
 To mark the centenary of the Great War the people of Youlgrave decided, through the Youlgreave 1914/18 Community Group, to commission a sculpture which they hoped would be both a fitting tribute to the heroes who had given their lives for their country and also celebrate the kindness of the people of Ieper who had permitted the remnants of their sacred windows to be used in this way.
